@@ -1,3 +1,7 @@
 Introduction
-My name is Syed Muhammad Usman, and I am currently a student of Software Engineering at COMSATS University, Abbotabad, in my 5th semester. My studies have provided me with a solid foundation in computer science, and I'm eager to continue building upon this knowledge
-
+My name is Syed Muhammad Usman, and I am currently a student of Software Engineering at COMSATS University, Abbotabad, in my 5th semester. My studies have provided me with a solid foundation in computer science, and I'm eager to continue building upon this knowledge.
+Throughout my academic journey, I have studied several key areas within software engineering. These include:
+Programming Fundamentals and Object-Oriented Programming (OOP) in Java24. These courses equipped me with the basic principles of software development and the ability to create modular, reusable code.
+Data Structures provided me with the knowledge to organize and manage data efficiently, which is crucial for developing scalable and performant applications2.
+Web Development has allowed me to explore the world of creating interactive and dynamic websites2.
+Databases and Computer Networking: I've gained a foundational understanding of data storage, retrieval, and network communication
